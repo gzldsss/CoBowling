@@ -7,7 +7,7 @@ video：https://youtu.be/5bjxXGnKFV0
 ![屏幕截图 2023-06-08 233440](https://github.com/gzldsss/CocacolaBall/assets/118484191/23246b46-6325-42d6-a929-5f19521e1cca)
 # Scenes
 
-This is an old street, a few glass bottles and a ball can keep children playing for a long time, it is the childhood that parents always bring up.
+This is an old street, a few glass bottles and a ball can keep children playing for a long time, it is the childhood that parents always say.
 
 ![屏幕截图 2023-06-05 183424](https://github.com/gzldsss/CoBowling/assets/118484191/f17a4796-2780-4f89-afa4-19d28900cd20)
 ![屏幕截图 2023-06-01 144618](https://github.com/gzldsss/CoBowling/assets/118484191/96420de3-6504-4bd8-82b1-0efac1f01820)
