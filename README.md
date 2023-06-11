@@ -1,6 +1,6 @@
 # CoBowling
 
-This is a VR bowling game made by UE5. Players can throw the ball in their hands to hit the opposite glass bottle to get points. This is the first vr game I have made and I am really enjoying it.
+This is a VR bowling game made by UE5. Players can throw the ball in their hands to hit the opposite glass bottle to get points. This is the first VR game I have made and I am really enjoying it.
 
 video：https://youtu.be/5bjxXGnKFV0
 
