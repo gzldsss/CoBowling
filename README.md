@@ -12,7 +12,7 @@ This is an old street, a few glass bottles and a ball can keep children playing 
 ![屏幕截图 2023-06-05 183424](https://github.com/gzldsss/CoBowling/assets/118484191/f17a4796-2780-4f89-afa4-19d28900cd20)
 ![屏幕截图 2023-06-01 144618](https://github.com/gzldsss/CoBowling/assets/118484191/96420de3-6504-4bd8-82b1-0efac1f01820)
 ### post-rendering material blueprint
-Manga style with purple tones.
+Manga style with purple tones. This blueprint uses the Stylized Texture Pack plugin, which I modified. And I used the good sky plugin for the sky.
 
 ![屏幕截图 2023-06-11 222946](https://github.com/gzldsss/CoBowling/assets/118484191/363e0814-c6d1-47cc-927c-d1480433c343)
 
@@ -47,12 +47,12 @@ Make a sound and only trigger once per collision to make the collision sound mor
 
 ![屏幕截图 2023-06-11 222659](https://github.com/gzldsss/CoBowling/assets/118484191/061fa50a-8d15-42f6-bb47-c59034f6c2cf)
 
-# Tutorials used
+# Reference
 
 https://www.youtube.com/watch?v=dL08XUunLKQ&list=LL&index=8&t=113s
 
 https://www.youtube.com/watch?v=GrycMDKPRVs&list=LL&index=13
 
-# Plugins used
+# Related to this work
 
-Goodsky, Stylized Texture Pack.
+This is a simple security ball game, and the production process is simple. During the production process, a series of problems appeared, such as a sphere of obstructive force and gravity, the ball did not come out, the bottle entered the ground, the strike did not emit a sound, and the fraction did not pass. It's been a long time since I've been in the middle of a long time.
