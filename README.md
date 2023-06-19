@@ -55,4 +55,4 @@ https://www.youtube.com/watch?v=GrycMDKPRVs&list=LL&index=13
 
 # Related to this work
 
-This is a simple security ball game, and the production process is simple. During the production process, a series of problems appeared, such as a sphere of obstructive force and gravity, the ball did not come out, the bottle entered the ground, the strike did not emit a sound, and the fraction did not pass. It's been a long time since I've been in the middle of a long time.
+It's a simple bowling game, although it wasn't easy for me to make. There were a series of problems in the production process, such as the resistance and gravity of the ball, the ball could not be thrown out, the bottle fell into the ground, the impact did not make a sound, and the score was not accurate, etc., but they were all overcome one by one. Arrived a lot, let me know more about the operation of Unreal Engine.
